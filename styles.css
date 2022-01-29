@@ -1,0 +1,113 @@
+@media (max-width:700px) {
+ .resum {
+     display: block;
+     text-align: center;
+ }
+}
+    
+
+.allsite{
+    width: 70%;
+    margin: auto;
+    font-size: 16px;
+    
+}
+
+.allsite{
+    margin-bottom: 500px;
+}
+
+.resum{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;   
+    font-style: italic;
+    color: rgb(102, 85, 85);
+    text-decoration: none;
+}
+
+
+.avatar img{
+    border-radius: 1500px;
+}
+
+.allsite p {
+    font-size: 16px;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+.links a {
+    color:black;
+    text-decoration: none;
+    font-style:initial;
+
+}
+
+.links h3 {
+   text-align: center;
+}
+
+.links a:hover {
+    text-decoration: line-through;
+}
+
+.greenbox {
+    background-color: rgba(102, 233, 102, 0.671);
+    padding: 2%;
+    border-radius: 43px;
+    border-bottom: 15px;
+    font-size: 16px;
+    font-family: 'Supermercado One', cursive;
+    color:rgb(102, 85, 85)
+}
+
+.yellowbox {
+    background-color: rgba(228, 228, 86, 0.842);
+    border-radius: 43px;
+    padding: 2%;
+    border-bottom: 15px;
+    font-size: 16px;
+    font-family:'Supermercado One', cursive;
+    color: rgb(102, 85, 85);
+}
+
+.redbox {
+    background-color: rgb(216, 97, 97);
+    border-radius: 43px;
+    padding: 2%;
+    border-bottom: 15px;
+    font: 16px 'Supermercado One', cursive ;
+    color:rgb(102, 85, 85);
+}
+
+.contact h3 {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.message label {
+    display: block;
+    font-size: 20px;
+    color: rgb(102, 85, 85) ;
+    font-family:'Supermercado One', cursive ;
+    width: 100%;
+}
+
+.contact  input ,
+.contact textarea {
+    width: 100%;
+    box-sizing: border-box;
+    border:none;
+    background: transparent;
+    border-bottom: 1px solid;
+    padding: 15px 0 10px;
+    outline: none;
+    font-family:'Supermercado One', cursive  ;
+}
+
+.btn {
+   padding: 15px 20px;
+   font-style: oblique;
+}
